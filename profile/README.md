@@ -8,7 +8,7 @@ Pixly Stream permet à une communauté de streamer de poser des pixels en temps 
 
 ## Stack
 
-- **Backend** — Go (centrifuge + Redis + Postgres + pgx)
+- **Backend** — Java 21 + Spring Boot 3 (GraalVM Native Image)
 - **Frontend** — React + Vite + TypeScript + Tailwind + Canvas API
 
 ## Contact
